@@ -1,0 +1,27 @@
+# Ignorar el directorio de dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de configuración de entorno
+.env
+
+# Ignorar cachés, logs y otros archivos temporales
+/cache/
+logs/
+*.log
+*.tmp
+*.bak
+
+# Ignorar archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de compilación o IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignorar directorios de subida de archivos (puedes especificar carpetas específicas si las tienes)
+uploads/
+
+
